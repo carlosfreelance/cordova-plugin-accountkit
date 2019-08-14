@@ -138,7 +138,7 @@
         </config-file>
 
         <!-- AccountKit framework -->
-        <framework src="AccountKit" type="podspec" spec="~> 4" />
+        <framework src="AccountKit" type="podspec" spec="~> 5" />
 
 
     </platform>
